@@ -6,6 +6,8 @@ gem 'bson', '~> 4.1', '>= 4.1.1'
 gem 'mongoid', '~> 5.1', '>= 5.1.3'
 
 gem 'devise', '~> 4.2'
+gem 'tzinfo'
+gem 'tzinfo-data'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
